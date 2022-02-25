@@ -1,6 +1,6 @@
 # OpenWrt-CR660X
 自编译适用于小米 CR660X 型号的 OpenWrt 固件
-[!image](snap.png)
+![预览](snap.png)
 > 由于 CR6608 不带有 USB 口，因此没有编译与 USB 有关的内容
 
 路由管理页面 **192.168.30.1**
