@@ -1,5 +1,9 @@
 # OpenWrt-CR660X
 自编译适用于小米 CR660X 型号的 OpenWrt 固件
+由 Github Action 所构建的固件请前往 [此处](https://github.com/AllsVoid/lede/actions) 寻找
+### Notion！
+本人在使用 OpenClash 的时候会出现爆 内存/CPU 的情况，故替换为 bypass/passwall
+
 ![预览](snap.png)
 > 由于 CR6608 不带有 USB 口，因此没有编译与 USB 有关的内容
 
